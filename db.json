@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "sam123",
+      "password": "sam12345",
+      "name": "sample",
+      "email": "sam@gmail.com",
+      "phone": "8765341019",
+      "country": "india",
+      "gender": "male",
+      "address": "sample address,chennai"
+    },
+    {
+      "id": "muthu",
+      "password": "muthu123",
+      "name": "muthukumar",
+      "email": "muthu@gmail.com",
+      "phone": "7876787678",
+      "country": "india",
+      "gender": "male",
+      "address": "chennai,india"
+    },
+    {
+      "id": "diya",
+      "password": "12345",
+      "name": "diyas",
+      "email": "diya@gmail.com",
+      "phone": "5678943216",
+      "country": "india",
+      "gender": "female",
+      "address": "fdscbhy"
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "name": "sample0",
+      "email": "sam@gmail.com",
+      "phone": "8765341019"
+    },
+    {
+      "id": "47c1",
+      "name": "ravi123",
+      "email": "ravi@gmail.com",
+      "phone": "7921023467"
+    },
+    {
+      "id": "fea5",
+      "name": "sathya",
+      "email": "sathya@gmail.com",
+      "phone": "9787507475"
+    }
+  ]
+}
